@@ -4,8 +4,8 @@
 BOM Management Tool
 
 Goals
-  [ ] Add BOMs
-  [ ] Display IBOMs
-  [ ] Web interface
-  [ ] Controlled BOM Modification
+- [ ] Add BOMs
+- [ ] Display IBOMs
+- [ ] Web interface
+- [ ] Controlled BOM Modification
 
